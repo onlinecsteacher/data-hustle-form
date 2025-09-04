@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Side Hustle Form</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Side Hustle Form</h1>
+        
+        <form id="side-hustle-form">
+            <div class="form-group">
+                <label for="title">Side Hustle</label>
+                <input type="text" id="title" placeholder="Enter text here">
+            </div>
+            
+            <div class="form-group">
+                <label for="category-type">Category Type</label>
+                <select id="category-type">
+                    <option value="">Select a category</option>
+                    <option value="Job">Job</option>
+                    <option value="Internship">Internship</option>
+                    <option value="Volunteering">Volunteering</option>
+                    <option value="Club">Club</option>
+                </select>
+            </div>
+            
+            <div class="form-group">
+                <label for="barrier-to-entry">Barrier to Entry</label>
+                <select id="barrier-to-entry">
+                    <option value="">Select from dropdown</option>
+                    <option value="Low">Low</option>
+                    <option value="Medium">Medium</option>
+                    <option value="High">High</option>
+                </select>
+            </div>
+            
+            <div class="form-group">
+                <label for="college-admissions">Helps with College Admissions?</label>
+                <select id="college-admissions">
+                    <option value="">Select level</option>
+                    <option value="High">High</option>
+                    <option value="Medium">Medium</option>
+                    <option value="Low">Low</option>
+                </select>
+            </div>
+            
+            <div class="form-group">
+                <label for="technical-skills">Technical and Skills Required</label>
+                <input type="text" id="technical-skills" placeholder="Enter text here">
+            </div>
+            
+            <div class="form-group">
+                <label for="non-financial-benefits">Non-financial Benefits</label>
+                <input type="text" id="non-financial-benefits" placeholder="Enter text here">
+            </div>
+            
+            <div class="form-group">
+                <label for="hourly-wage">Hourly Wage ($)</label>
+                <input type="number" id="hourly-wage" placeholder="Enter hourly wage" step="0.01">
+            </div>
+            
+            <button type="submit" id="submit-button">Submit</button>
+        </form>
+        
+        <div id="display-area"></div>
+        
+        <div class="optimization-section">
+            <h2>Optimize for:</h2>
+            <div class="button-group">
+                <button id="profit-button" class="optimize-btn">Profit</button>
+                <button id="positive-impact-button" class="optimize-btn">Positive Impact</button>
+            </div>
+        </div>
+        
+        <div id="results-table">
+            <table id="results-table-element">
+                <thead>
+                    <tr>
+                        <th>Side Hustle</th>
+                        <th>Hourly Wage ($)</th>
+                        <th>Category Type</th>
+                        <th>Barrier to Entry</th>
+                        <th>Helps with College Admissions</th>
+                        <th>Technical and Skills Required</th>
+                        <th>Non-financial Benefits</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>#1</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>#2</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td>#3</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+    
+    <script src="script.js"></script>
+</body>
+</html>

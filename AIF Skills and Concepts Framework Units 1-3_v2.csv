@@ -1,0 +1,133 @@
+Identifier,Concept or Skill,Topic,Unit,Priority Level,Cognitive Demand,CPM Locked?,Course,Description
+AIF.S2.1-22,identifying accessibility issues ,Accessibility,Unit 1,Must Include,Analyze,Yes,AIF Semester 2,visually inspecting an AI-generated layout to spot common problems like hard-to-read text or buttons that are too small
+AIF.S2.1-38,identifying responsiveness issues ,Responsiveness,Unit 1,Must Include,Analyze,Yes,AIF Semester 2,"spotting common problems on different screen sizes, such as content overflowing the screen, elements overlapping, or text becoming unreadably small"
+AIF.S2.1-45,simple competitive analysis ,Design and Planning,Unit 1,Optional,Analyze,No,AIF Semester 2,researching and analyzing existing web apps to identify their strengths and weaknesses
+AIF.S2.1-06,defining a user problem ,Design and Planning,Unit 1,Must Include,Apply,Yes,AIF Semester 2,articulating a clear and specific need based on a user persona
+AIF.S2.1-07,creating wireframes ,Design and Planning,Unit 1,Must Include,Apply,Yes,AIF Semester 2,sketching the layout and structure of a multi-page web app
+AIF.S2.1-08,defining a brand identity ,Design and Planning,Unit 1,Must Include,Apply,Yes,AIF Semester 2,selecting a color palette and typography that aligns with a user’s needs
+AIF.S2.1-12,writing descriptive prompts ,AI Collaboration,Unit 1,Must Include,Apply,Yes,AIF Semester 2,authoring detailed prompts to generate specific HTML/CSS components
+AIF.S2.1-14,refining prompts ,AI Collaboration,Unit 1,Must Include,Apply,Yes,AIF Semester 2,modifying and improving prompts based on the evaluation of the AI’s output
+AIF.S2.1-23,articulating accessibility needs in prompts ,Accessibility,Unit 1,Must Include,Apply,Yes,AIF Semester 2,"including specific accessibility requirements in a prompt, such as, “…ensure all text has high color contrast against its background,” or “…make all buttons and links have a large tap area for mobile users”"
+AIF.S2.1-27,applying decomposition ,Computational Thinking,Unit 1,Must Include,Apply,Yes,AIF Semester 2,"breaking down a complex problem or system into smaller, more manageable parts that can be designed, implemented, or tested separately"
+AIF.S2.1-28,applying abstraction ,Computational Thinking,Unit 1,Must Include,Apply,Yes,AIF Semester 2,representing only the essential details of a problem or system while ignoring low-level or extraneous details
+AIF.S2.1-29,applying pattern recognition ,Computational Thinking,Unit 1,Must Include,Apply,Yes,AIF Semester 2,"identifying common design patterns across different web apps (e.g., headers, footers, card-based layouts) to plan a familiar and intuitive user experience"
+AIF.S2.1-32,designing for consistency ,Systems Thinking,Unit 1,Must Include,Apply,Yes,AIF Semester 2,using a shared external stylesheet and a consistent brand identity to create a cohesive experience across multiple pages
+AIF.S2.1-33,mapping a user journey ,Systems Thinking,Unit 1,Recommended,Apply,No,AIF Semester 2,planning and implementing clear navigation that guides a user through the different parts of the web app
+AIF.S2.1-34,applying debugging strategies ,AI Collaboration,Unit 1,Must Include,Apply,No,AIF Semester 2,"when an AI output is flawed, re-prompt with more specific constraints, ask the AI to fix its own errors, or revert to a previous working version to try a different approach"
+AIF.S2.1-37,articulating responsiveness needs in prompts ,Responsiveness,Unit 1,Must Include,Apply,Yes,AIF Semester 2,"including specific layout instructions for different screen sizes in a prompt, such as, “…the layout should be a single column on mobile,” or “…the navigation bar should collapse into a menu on small screens”"
+AIF.S2.1-39,testing for responsiveness ,Responsiveness,Unit 1,Must Include,Apply,Yes,AIF Semester 2,using browser tools or simply resizing the browser window to simulate different screen sizes and observe how a layout behaves
+AIF.S2.1-47,reverting to a previous version ,AI Collaboration,Unit 1,Recommended,Apply,No,AIF Semester 2,"the practical application of versioning, used as a debugging strategy when an AI-generated change breaks the design"
+AIF.S2.1-13,evaluating AI output ,AI Collaboration,Unit 1,Must Include,Evaluate,Yes,AIF Semester 2,review AI-generated work for clarity and correctness
+AIF.S2.1-43,providing peer feedback ,Design and Planning,Unit 1,Recommended,Evaluate,No,AIF Semester 2,"the skill of giving constructive, kind, and specific feedback on a peer's design work"
+AIF.S2.1-15,HTML ,Web and Technical Concepts,Unit 1,Must Include,Remember,Yes,AIF Semester 2,the standard language for creating the structure of web pages
+AIF.S2.1-16,CSS ,Web and Technical Concepts,Unit 1,Must Include,Remember,Yes,AIF Semester 2,the language used for describing the presentation and styling of a document written in HTML
+AIF.S2.1-01,user-centered design ,Design and Planning,Unit 1,Must Include,Understand,Yes,AIF Semester 2,the idea that design should start with understanding the needs of the end-user
+AIF.S2.1-02,user persona ,Design and Planning,Unit 1,Must Include,Understand,Yes,AIF Semester 2,a fictional character created to represent a user type
+AIF.S2.1-03,problem statement ,Design and Planning,Unit 1,Must Include,Understand,Yes,AIF Semester 2,a concise description of a user’s problem
+AIF.S2.1-04,wireframe ,Design and Planning,Unit 1,Must Include,Understand,Yes,AIF Semester 2,"a low-fidelity, structural layout of a web app’s content and functionality"
+AIF.S2.1-05,brand identity ,Design and Planning,Unit 1,Must Include,Understand,Yes,AIF Semester 2,"the collection of visual elements (colors, fonts) that represent a brand’s image"
+AIF.S2.1-09,Assemble mode ,AI Collaboration,Unit 1,Must Include,Understand,Yes,AIF Semester 2,the creative mode where a project is built piece-by-piece
+AIF.S2.1-10,prompt engineering ,AI Collaboration,Unit 1,Must Include,Understand,Yes,AIF Semester 2,"the skill of crating clear, specific, and effective instructions for a generative AI"
+AIF.S2.1-11,iterative design ,AI Collaboration,Unit 1,Must Include,Understand,Yes,AIF Semester 2,the process of repeatedly refining a product based on evaluation and feedback
+AIF.S2.1-17,external stylesheet ,Web and Technical Concepts,Unit 1,Recommended,Understand,No,AIF Semester 2,a separate CSS file that is linked to an HTML file to control its styling
+AIF.S2.1-18,differentiating HTML and CS ,Web and Technical Concepts,Unit 1,Must Include,Understand,Yes,AIF Semester 2,explaining the distinct roles of HTML (for structure) and CSS (for styling)
+AIF.S2.1-19,accessibility ,Accessibility,Unit 1,Must Include,Understand,Yes,AIF Semester 2,"designing web apps so that people with a wide range of abilities (including visual, motor, auditory, and cognitive) can use them"
+AIF.S2.1-20,color contrast ,Accessibility,Unit 1,Must Include,Understand,No,AIF Semester 2,"the difference in brightness between the foreground (text) and background of a component, which is critical for readability"
+AIF.S2.1-21,touch target size ,Accessibility,Unit 1,Must Include,Understand,No,AIF Semester 2,"the size of an interactive element (like a button or link) on a touchscreen, which needs to be large enough for users to tap accurately"
+AIF.S2.1-24,decomposition ,Computational Thinking,Unit 1,Must Include,Understand,Yes,AIF Semester 2,breaking down a complex problem into smaller parts
+AIF.S2.1-25,abstraction ,Computational Thinking,Unit 1,Must Include,Understand,Yes,AIF Semester 2,focusing on essential qualities rather than specific details
+AIF.S2.1-26,pattern recognition ,Computational Thinking,Unit 1,Must Include,Understand,Yes,AIF Semester 2,identifying similarities or common elements
+AIF.S2.1-30,system cohesion ,Systems Thinking,Unit 1,Must Include,Understand,Yes,AIF Semester 2,"the idea that all parts of a system (in this case, the pages of a web app) should work together to create a single, unified experience"
+AIF.S2.1-31,user flow ,Systems Thinking,Unit 1,Recommended,Understand,No,AIF Semester 2,the path a user takes through the different parts of a web app to complete a task
+AIF.S2.1-35,debugging with prompts ,AI Collaboration,Unit 1,Must Include,Understand,No,AIF Semester 2,"the practice of treating flawed AI output not as a failure, but as a puzzle to be solved through more precise language, iterative refinement, and strategic problem-solving"
+AIF.S2.1-36,the POUR principles ,Accessibility,Unit 1,Must Include,Understand,Yes,AIF Semester 2,"a framework for thinking about accessibility:
+- Perceivable: Can everyone see and hear the content?
+- Operable: Can everyone se the controls?
+- Understandable: Is the content and interface clear?
+- Robust: Can different technologies (like screen readers) interpret the content?"
+AIF.S2.1-40,layout flow ,Responsiveness,Unit 1,Recommended,Understand,No,AIF Semester 2,recognizing how content should “flow” or “stack” differently on narrow screens compared to wide screens
+AIF.S2.1-41,responsiveness ,Responsiveness,Unit 1,Must Include,Understand,Yes,AIF Semester 2,"the approach that allows a web app’s layout to automatically adapt to different screen sizes, from mobile phones to large desktop monitors"
+AIF.S2.1-42,mood boarding ,Design and Planning,Unit 1,Recommended,Understand,No,AIF Semester 2,"a collection of images, colors, and text used to explore the overall aesthetic of a brand"
+AIF.S2.1-44,microcopy ,Design and Planning,Unit 1,Optional,Understand,No,AIF Semester 2,"the small bits of text on buttons, labels, and instructions that guide the user"
+AIF.S2.1-46,versioning ,AI Collaboration,Unit 1,Recommended,Understand,No,AIF Semester 2,"the general idea of saving a ""working"" state of a project so you can safely return to it if a future change causes problems"
+AIF.S2.2-04,applying debugging strategies ,AI Collaboration,Unit 2,Must Include,Analyze,Yes,AIF Semester 2,"when an AI output is flawed, re-prompt with more specific constraints, ask the AI to fix its own errors, or revert to a previous working version to try a different approach"
+AIF.S2.2-27,refactoring code ,Programming,Unit 2,Recommended,Analyze,No,AIF Semester 2,restructuring existing code without changing its external behavior to improve readability or efficiency
+AIF.S2.2-32,conducting usability testing ,Design and Planning,Unit 2,Recommended,Analyze,No,AIF Semester 2,"the skill of defining a task, observing a user as they attempt it without help, and taking notes on where they succeed or struggle"
+AIF.S2.2-01,user-centered design ,Design and Planning,Unit 2,Must Include,Apply,Yes,AIF Semester 2,the idea that design should start with understanding the needs of the end-user
+AIF.S2.2-02,iterative design ,AI Collaboration,Unit 2,Must Include,Apply,Yes,AIF Semester 2,the process of repeatedly refining a product based on evaluation and feedback
+AIF.S2.2-06,applying abstraction ,Computational Thinking,Unit 2,Must Include,Apply,Yes,AIF Semester 2,representing only the essential details of a problem or system while ignoring low-level or extraneous details
+AIF.S2.2-07,applying decomposition ,Computational Thinking,Unit 2,Must Include,Apply,Yes,AIF Semester 2,"breaking down a complex problem or system into smaller, more manageable parts that can be designed, implemented, or tested separately"
+AIF.S2.2-08,applying pattern recognition ,Computational Thinking,Unit 2,Must Include,Apply,Yes,AIF Semester 2,"identifying common design patterns across different web apps (e.g., headers, footers, card-based layouts) to plan a familiar and intuitive user experience"
+AIF.S2.2-09,system cohesion ,Systems Thinking,Unit 2,Recommended,Apply,Yes,AIF Semester 2,"the idea that all parts of a system (in this case, the pages of a web app) should work together to create a single, unified experience"
+AIF.S2.2-17,writing JavaScript ,Programming,Unit 2,Must Include,Apply,Yes,AIF Semester 2,applying correct syntax to write functional JavaScript code
+AIF.S2.2-18,manipulating the DOM ,Programming,Unit 2,Must Include,Apply,Yes,AIF Semester 2,using JavaScript to select HTML elements and change their content or style
+AIF.S2.2-19,applying conditional logic ,Programming,Unit 2,Must Include,Apply,Yes,AIF Semester 2,writing if/else statements to create branching paths in a program
+AIF.S2.2-20,creating and calling functions ,Programming,Unit 2,Must Include,Apply,Yes,AIF Semester 2,defining and using functions to organize code and avoid repetition
+AIF.S2.2-23,modeling with flowcharts ,Computational Thinking,Unit 2,Must Include,Apply,Yes,AIF Semester 2,using a visual flowchart to plan the sequence and decision points of an algorithm before writing code
+AIF.S2.2-26,designing with trade-offs ,Systems Thinking,Unit 2,Must Include,Apply,Yes,AIF Semester 2,creating simple interactive scenarios where user choices lead to different consequences
+AIF.S2.2-28,using console.log for debugging ,Computational Thinking,Unit 2,Recommended,Apply,No,AIF Semester 2,explicitly using console.log() to print variable values and trace the logical flow of a program
+AIF.S2.2-30,basic user input validation ,Programming,Unit 2,Optional,Apply,No,AIF Semester 2,writing code to check if a user's input is valid before processing it
+AIF.S2.2-34,saving and restoring project versions ,Programming,Unit 2,Recommended,Apply,No,AIF Semester 2,the practical skill of using the development environment to save a checkpoint of working code and restore it if a bug is introduced
+AIF.S2.2-05,evaluating AI output ,AI Collaboration,Unit 2,Must Include,Evaluate,Yes,AIF Semester 2,review AI-generated work for clarity and correctness
+AIF.S2.2-10,JavaScript ,Programming,Unit 2,Must Include,Remember,Yes,AIF Semester 2,the programming language used to create interactivity in web apps
+AIF.S2.2-03,debugging with prompts ,AI Collaboration,Unit 2,Must Include,Understand,Yes,AIF Semester 2,"the practice of treating flawed AI output not as a failure, but as a puzzle to be solved through more precise language, iterative refinement, and strategic problem-solving"
+AIF.S2.2-11,syntax ,Programming,Unit 2,Must Include,Understand,Yes,AIF Semester 2,the specific set of rules that define how a program must be written to be understood by the computer
+AIF.S2.2-12,event handler ,Programming,Unit 2,Must Include,Understand,Yes,AIF Semester 2,"a piece of code that ""listens"" for a user action (like a click) and triggers a response"
+AIF.S2.2-13,variable ,Programming,Unit 2,Must Include,Understand,Yes,AIF Semester 2,a named container for storing information that can change
+AIF.S2.2-14,conditional logic ,Programming,Unit 2,Must Include,Understand,Yes,AIF Semester 2,a statement that allows a program to make decisions and execute different code based on a condition
+AIF.S2.2-15,function ,Programming,Unit 2,Must Include,Understand,Yes,AIF Semester 2,a reusable block of code that performs a specific task
+AIF.S2.2-16,DOM ,Programming,Unit 2,Must Include,Understand,Yes,AIF Semester 2,"the structure that connects HTML elements to JavaScript, allowing code to manipulate them"
+AIF.S2.2-21,Navigate mode ,AI Collaboration,Unit 2,Must Include,Understand,Yes,AIF Semester 2,"the creative mode where a student writes their own code, using the AI as an assistant for guidance, brainstorming, and debugging"
+AIF.S2.2-22,algorithm ,Computational Thinking,Unit 2,Must Include,Understand,Yes,AIF Semester 2,"a specific, step-by-step set of instructions for solving a problem or completing a task"
+AIF.S2.2-24,trade-offs ,Systems Thinking,Unit 2,Must Include,Understand,Yes,AIF Semester 2,the idea that design and development choices often involve balancing competing needs or goals
+AIF.S2.2-25,authoring a point of view ,Systems Thinking,Unit 2,Recommended,Understand,No,AIF Semester 2,understanding that the logic written into a program reflects the developer's choices and values
+AIF.S2.2-29,nested conditionals ,Programming,Unit 2,Optional,Understand,No,AIF Semester 2,"an if statement that is inside another if or else statement, allowing for more complex, multi-level decision-making"
+AIF.S2.2-31,usability testing ,Design and Planning,Unit 2,Recommended,Understand,No,AIF Semester 2,the formal process of observing a user interacting with a functional app to identify flaws in the user experience and interaction design
+AIF.S2.2-33,project checkpoints ,Programming,Unit 2,Recommended,Understand,No,AIF Semester 2,"a saved, stable version of the project's code that a developer can return to, serving as a safety net before adding new features"
+AIF.S2.3-17,completing AI scaffolds ,AI Collaboration,Unit 3,Must Include,Analyze,Yes,AIF Semester 2,fill in missing logic in AI-generated code scaffolds
+AIF.S2.3-22,applying abstraction ,Computational Thinking,Unit 3,Must Include,Analyze,Yes,AIF Semester 2,representing only the essential details of a problem or system while ignoring low-level or extraneous details
+AIF.S2.3-26,tracing data flow ,Computational Thinking,Unit 3,Must Include,Analyze,Yes,AIF Semester 2,follow how information moves through data structures into the interface
+AIF.S2.3-27,debugging ,Programming,Unit 3,Must Include,Analyze,Yes,AIF Semester 2,finding and fixing errors in code by identifying their causes and revising the implementation to produce the intended behavior
+AIF.S2.3-35,planning data features ,Design and Planning,Unit 3,Recommended,Analyze,No,AIF Semester 2,decide which dataset features to include or prioritize for users
+AIF.S2.3-36,comparing AI and human logic ,AI Collaboration,Unit 3,Recommended,Analyze,No,AIF Semester 2,analyze differences between AI-generated and human-authored code
+AIF.S2.3-39,mapping stakeholder impacts ,Systems Thinking,Unit 3,Recommended,Analyze,No,AIF Semester 2,analyze how different groups are affected by dataset choices
+AIF.S2.3-44,analyzing schema-UI alignment ,Design and Planning,Unit 3,Recommended,Analyze,No,AIF Semester 2,analyzing how well a UI aligns with its schema and identifying mismatches or inconsistencies
+AIF.S2.3-47,evaluating error handling ,Programming,Unit 3,Optional,Analyze,No,AIF Semester 2,evaluating code for potential failure points and planning safeguards that protect the user experience
+AIF.S2.3-02,using arrays ,Programming,Unit 3,Must Include,Apply,Yes,AIF Semester 2,use arrays to store and retrieve information in a program
+AIF.S2.3-05,using array methods ,Programming,Unit 3,Must Include,Apply,Yes,AIF Semester 2,"use array methods sch as push, pop, filter, or sort to manipulate data"
+AIF.S2.3-06,rendering data-driven content ,Programming,Unit 3,Must Include,Apply,Yes,AIF Semester 2,display or update content on a web page with arrays or objects
+AIF.S2.3-07,DOM data binding ,Web and Technical Concepts,Unit 3,Recommended,Apply,No,AIF Semester 2,connect JavaScript data to HTML so changes in data update the interface
+AIF.S2.3-09,linking external datasets ,Web and Technical Concepts,Unit 3,Recommended,Apply,No,AIF Semester 2,load and parse a small CSV or JSON dataset into a program
+AIF.S2.3-13,iterative design ,AI Collaboration,Unit 3,Must Include,Apply,No,AIF Semester 2,the process of repeatedly refining a product based on evaluation and feedback
+AIF.S2.3-14,applying conditional logic ,Programming,Unit 3,Must Include,Apply,No,AIF Semester 2,writing if/else statements to create branching paths in a program
+AIF.S2.3-15,creating and calling functions ,Programming,Unit 3,Must Include,Apply,No,AIF Semester 2,defining and using functions to organize code and avoid repetition
+AIF.S2.3-19,prompting for scaffolds ,AI Collaboration,Unit 3,Recommended,Apply,No,AIF Semester 2,write prompts to generate useful AI scaffolds with TODOs
+AIF.S2.3-24,applying decomposition ,Computational Thinking,Unit 3,Must Include,Apply,Yes,AIF Semester 2,"breaking down a complex problem or system into smaller, more manageable parts that can be designed, implemented, or tested separately"
+AIF.S2.3-25,designing algorithms ,Computational Thinking,Unit 3,Must Include,Apply,Yes,AIF Semester 2,create or trace algorithms that operate on data collections
+AIF.S2.3-33,accessibility in data displays ,Accessibility,Unit 3,Recommended,Apply,No,AIF Semester 2,"make data-driven features accessible (contrast, alt text, keyboard nav)"
+AIF.S2.3-34,responsive data views ,Responsiveness,Unit 3,Recommended,Apply,No,AIF Semester 2,adapt data displays for different screen sizes and devices
+AIF.S2.3-42,creating a schema ,Design and Planning,Unit 3,Must Include,Apply,Yes,AIF Semester 2,"designing a schema for a dataset by identifying fields, data types, and constraints that support an application’s features"
+AIF.S2.3-43,implementing schema-driven UI ,Design and Planning,Unit 3,Recommended,Apply,No,AIF Semester 2,"implementing UI elements that correspond directly to a dataset’s schema (e.g., dropdown for categories, slider for numeric range)"
+AIF.S2.3-45,validating data ,Programming,Unit 3,Recommended,Apply,No,AIF Semester 2,writing code to check that values match expected types or ranges before using them in a program
+AIF.S2.3-46,defensive programming ,Programming,Unit 3,Optional,Apply,No,AIF Semester 2,writing code that anticipates incorrect input or unexpected behavior to prevent crashes or errors
+AIF.S2.3-18,evaluating AI output ,AI Collaboration,Unit 3,Must Include,Evaluate,Yes,AIF Semester 2,review AI-generated work for clarity and correctness
+AIF.S2.3-20,critiquing AI dataset analysis ,AI Collaboration,Unit 3,Recommended,Evaluate,No,AIF Semester 2,evaluate AI-generated analysis of a dataset for accuracy or bias
+AIF.S2.3-29,identifying bias in datasets ,Systems Thinking,Unit 3,Must Include,Evaluate,Yes,AIF Semester 2,evaluate a dataset to identify skew or missing representation
+AIF.S2.3-32,evaluating data-driven UX ,Design and Planning,Unit 3,Recommended,Evaluate,No,AIF Semester 2,"assess whether data displays are clear, relevant, and supportive"
+AIF.S2.3-40,judgment in creative modes ,AI Collaboration,Unit 3,Must Include,Evaluate,Yes,AIF Semester 2,"decide when to use Assemble, Navigate, or Remix to best fit a task"
+AIF.S2.3-01,arrays ,Programming,Unit 3,Must Include,Understand,Yes,AIF Semester 2,a data structure for storing an ordered collection of items
+AIF.S2.3-03,objects ,Programming,Unit 3,Must Include,Understand,Yes,AIF Semester 2,a data structure for representing items with multiple properties
+AIF.S2.3-04,using objects ,Programming,Unit 3,Must Include,Understand,Yes,AIF Semester 2,use objects to organize and update multi-property information
+AIF.S2.3-08,JSON ,Web and Technical Concepts,Unit 3,Must Include,Understand,No,AIF Semester 2,a common format for representing structured data
+AIF.S2.3-10,data source context ,Web and Technical Concepts,Unit 3,Recommended,Understand,No,AIF Semester 2,information about where a dataset comes from and how that affects meaning
+AIF.S2.3-11,user-centered design ,Design and Planning,Unit 3,Must Include,Understand,Yes,AIF Semester 2,the idea that design should start with understanding the needs of the end-user
+AIF.S2.3-12,problem statement ,Design and Planning,Unit 3,Must Include,Understand,No,AIF Semester 2,a concise description of a user’s problem
+AIF.S2.3-16,Remix mode ,AI Collaboration,Unit 3,Must Include,Understand,Yes,AIF Semester 2,an AI creative mode where the system generates scaffolded code
+AIF.S2.3-21,abstraction ,Computational Thinking,Unit 3,Must Include,Understand,Yes,AIF Semester 2,focusing on essential qualities rather than specific details
+AIF.S2.3-23,decomposition ,Computational Thinking,Unit 3,Must Include,Understand,Yes,AIF Semester 2,breaking down a complex problem into smaller parts
+AIF.S2.3-28,bias in datasets ,Systems Thinking,Unit 3,Must Include,Understand,Yes,AIF Semester 2,the idea that datasets can reflect bias or missing perspectives
+AIF.S2.3-30,ecosystem perspective ,Systems Thinking,Unit 3,Must Include,Understand,Yes,AIF Semester 2,the idea that dataset choices affect users and systems beyond the interface
+AIF.S2.3-31,data as part of UX ,Design and Planning,Unit 3,Must Include,Understand,Yes,AIF Semester 2,"the idea that data choices shape fairness, usability, and trust"
+AIF.S2.3-37,documenting AI use ,AI Collaboration,Unit 3,Recommended,Understand,No,AIF Semester 2,"record how AI was used in a project, including edits and rationale"
+AIF.S2.3-38,algorithmic reasoning ,Computational Thinking,Unit 3,Must Include,Understand,Yes,AIF Semester 2,"reasoning about how algorithms are designed, structured, and executed"
+AIF.S2.3-41,schema definition ,Design and Planning,Unit 3,Must Include,Understand,Yes,AIF Semester 2,"what a schema is and why defining fields, types, and constraints matters before building UI or logic"
