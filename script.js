@@ -23,6 +23,7 @@ let technicalSkills = document.getElementById("technical-skills");
 let nonFinancialBenefits = document.getElementById("non-financial-benefits");
 let hourlyWage = document.getElementById("hourly-wage");
 // add a new field here
+let peopleImpacted = document.getElementById("people-impacted");
 
 // 4) Create a variable to store the submit button using document.getElementById
 let submitButton = document.getElementById("submit-button");
@@ -51,6 +52,7 @@ submitButton.addEventListener("click", function(event) {
     let technicalSkillsValue = technicalSkills.value;
     let nonFinancialBenefitsValue = nonFinancialBenefits.value;
     let hourlyWageValue = parseFloat(hourlyWage.value);
+    let peopleImpactedValue = parseFloat(peopleImpacted.value);
 
     //     10) Create an object called "sideHustleData" to store all the form information using the following structure:
     //        - title: (store the title value)
@@ -67,7 +69,8 @@ submitButton.addEventListener("click", function(event) {
         collegeAdmissions: collegeAdmissionsValue,
         technicalSkills: technicalSkillsValue,
         nonFinancialBenefits: nonFinancialBenefitsValue,
-        hourlyWage: hourlyWageValue
+        hourlyWage: hourlyWageValue,
+        peopleImpacted: peopleImpactedValue
     };
 
     //     11) Add the sideHustleData object to your array using the push method
@@ -81,6 +84,7 @@ submitButton.addEventListener("click", function(event) {
     technicalSkills.value = "";
     nonFinancialBenefits.value = "";
     hourlyWage.value = "";
+    peopleImpacted.value = "";
 
     // Show confirmation message
     displayArea.innerHTML = `<p>Side hustle "${titleValue}" added successfully! Total entries: ${sideHustleArray.length}</p>`;
@@ -157,4 +161,15 @@ function updateRow(row, hustle, rank) {
 // Callback function to compare wages for sorting (highest to lowest)
 function compareWages(a, b) {
     return b.hourlyWage - a.hourlyWage;
+}
+
+// 16) Add an event listener to the Positive Impact button that listens for "click" events
+positiveImpactButton.addEventListener("click", function(event) {
+    //     17) Inside the Profit button event listener, call the sortByProfit function
+    sortByImpact();
+});
+
+// Callback function to compare wages for sorting (highest to lowest)
+function sortByImpact() {
+    console.log("sorted by impact")
 }
