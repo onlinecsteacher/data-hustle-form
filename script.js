@@ -22,6 +22,7 @@ let collegeAdmissions = document.getElementById("college-admissions");
 let technicalSkills = document.getElementById("technical-skills");
 let nonFinancialBenefits = document.getElementById("non-financial-benefits");
 let hourlyWage = document.getElementById("hourly-wage");
+// add a new field here
 
 // 4) Create a variable to store the submit button using document.getElementById
 let submitButton = document.getElementById("submit-button");
