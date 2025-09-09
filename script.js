@@ -108,7 +108,6 @@ function sortByProfit() {
     
     // Take only the first 3 results
     let topThree = sorted.slice(0, 3);
-
     // Call displayResults function to show in DOM elements
     displayResults(topThree);
 }
